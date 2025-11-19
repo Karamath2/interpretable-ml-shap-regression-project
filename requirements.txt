@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+tensorflow>=2.10
+keras
+shap
+matplotlib
+seaborn
+joblib
+scipy
+jupyterlab
+openpyxl

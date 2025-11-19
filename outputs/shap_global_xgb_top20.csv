@@ -1,0 +1,14 @@
+feature,mean_abs_shap
+latitude,46727.98872754158
+longitude,43753.46767225661
+median_income,43446.85931827359
+ocean_proximity_INLAND,24758.628480738047
+population,16657.651023011244
+total_bedrooms,14194.892692282558
+housing_median_age,6873.536246633028
+total_rooms,5879.806382096364
+households,3778.8611871711755
+ocean_proximity_NEAR OCEAN,2102.102429410162
+ocean_proximity_<1H OCEAN,1949.2870743989056
+ocean_proximity_NEAR BAY,1704.10426497537
+ocean_proximity_ISLAND,1.1482198195083702
